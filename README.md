@@ -4,5 +4,6 @@ próximos passos:
 - Catalogar os erros
 - Melhorar as consultas ao MySql através do Sequelize
 - Implementar verificações para garantir segurança ao executar as API's
+- Utilizar a biblioteca fs para inserir as imagens
 - ...
 
